@@ -1,5 +1,7 @@
 # Realstate_Project
 
+Team: Miguel Molina, Luke Coolidge, Chelsea Pimentel
+
 In this research paper, we embark on a comprehensive analysis to address a critical question: "Is Houston a viable market for investment properties?" As the real estate landscape continues to evolve, understanding the potential of Houston's market becomes essential for investors seeking lucrative opportunities. We will conduct a thorough examination, comparing the real estate market in Houston with major cities in Texas and New York, known as the hottest market in the United States. By exploring key factors such as property prices, home values, and population growth, among others. This research aims to provide valuable insights to guide investors in making informed decisions. Let us delve into this study to uncover the investment potential that Houston holds in the dynamic world of real estate.
 
 Understanding Real Estate Bubbles:
